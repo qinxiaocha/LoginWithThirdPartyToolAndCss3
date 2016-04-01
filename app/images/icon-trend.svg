@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="61px" height="57px" viewBox="0 0 61 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#369CE6" offset="0%"></stop>
+            <stop stop-color="#4A6CC1" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.400568182   0 0 0 0 0.616090797   0 0 0 0 1  0 0 0 0.193229167 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Landingpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-(1170,-15)" sketch:type="MSArtboardGroup" transform="translate(-669.000000, -2215.000000)" filter="url(#filter-2)" fill="url(#linearGradient-1)">
+            <g id="hdr-copy" sketch:type="MSLayerGroup" transform="translate(490.000000, 2156.000000)">
+                <path d="M216.049715,76.0723136 C216.370619,76.2138035 216.748412,76.1029455 216.945331,75.8097552 L225.150282,63.593494 C225.374915,63.2594613 225.285937,62.8058187 224.950446,62.5811853 C224.619331,62.3580106 224.165688,62.4440715 223.939596,62.7795628 L216.073053,74.4911283 L208.88041,71.3608481 C208.584303,71.2339449 208.237142,71.3141711 208.027095,71.5650603 L198.105303,83.582944 L198.105303,61.729329 C198.105303,61.3267394 197.778564,61 197.375974,61 C196.973385,61 196.646645,61.3267394 196.646645,61.729329 L196.646645,84.8855256 L193.729329,84.8855256 C193.326739,84.8855256 193,85.212265 193,85.6148546 C193,86.0174442 193.326739,86.3441836 193.729329,86.3441836 L196.646645,86.3441836 L196.646645,88.1675062 C196.646645,88.5700958 196.973385,88.8968352 197.375974,88.8968352 C197.778564,88.8968352 198.105303,88.5700958 198.105303,88.1675062 L198.105303,86.3441836 L223.449487,86.3441836 C223.852076,86.3441836 224.178816,86.0174442 224.178816,85.6148546 C224.178816,85.212265 223.852076,84.8855256 223.449487,84.8855256 L198.926528,84.8855256 L208.803101,72.9186949 L216.049715,76.0723136 L216.049715,76.0723136 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
